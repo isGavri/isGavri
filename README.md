@@ -14,14 +14,21 @@
 # About me
 
 -  Hi, I’m @isGavri
-- I'm looking forward to start working on the industry.
 - I'm currently studying computer engineering.
 - I am part of the Oracle Next Education program.
-- I love spending my time learning cool stuff.
+- I love low level programming.
+- I love cybersecurity.
+- And im very happy lerning new things every single day
 
 ## What I do?
+#### Dont really like
   - API rest with Java and Spring Boot 3.
-  - Currently lerning Oracle Cloud Infraestructure.
+  - Oracle Cloud Infraestructure.
+#### Really love
+  - Rust multithread servers and APIs
+  - C and C++ plugins for my DE
+  - Compilers and interpreters (still not really good)
+  - Low level programming (on the path of mastering)
 
 
 ## 🌐 Socials:
