@@ -15,20 +15,23 @@
 
 -  Hi, I’m @isGavri
 - I'm currently studying computer engineering.
-- I am part of the Oracle Next Education program.
-- I love low level programming.
-- I love cybersecurity.
-- And im very happy lerning new things every single day
+- I was part of the Oracle Next Education program.
+- I really love system languages.
+- And im very happy lerning new things every single day.
+- oh, I use arch, btw.
 
 ## What I do?
 #### Dont really like
   - API rest with Java and Spring Boot 3.
   - Oracle Cloud Infraestructure.
+  - MySql
+  - Oracle Database
 #### Really love
   - Rust multithread servers and APIs
   - C and C++ plugins for my DE
+  - Learning wayland clients and servers
   - Compilers and interpreters (still not really good)
-  - Low level programming (on the path of mastering)
+  - Low level programming (still learning)
 
 
 ## 🌐 Socials:
@@ -42,10 +45,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=isGavri&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!---
-isGavri/isGavri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
