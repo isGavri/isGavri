@@ -1,5 +1,5 @@
 <div align="center">
-  <h1">Hello, I'm Gabriel</h1>
+  <h1 style="font-size: 3rem;">Hello, I'm Gabriel</h1>
   <h4 style="font-size: 1.5em; margin-top: -10px;">
     Computer Engineering student | GNU linux & Systems Programming Enthusiast
   </h4>
