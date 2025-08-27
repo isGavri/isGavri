@@ -1,5 +1,9 @@
-# Hello, I'm Gabriel
-Computer engineering student and systems programming enthusiast
+<div align="center">
+  <h1">Hello, I'm Gabriel</h1>
+  <h4 style="font-size: 1.5em; margin-top: -10px;">
+    Computer Engineering student | GNU linux & Systems Programming Enthusiast
+  </h4>
+</div>
 
 <div align="center">
 <img src="https://cdn.leonardo.ai/users/ef84f59b-589a-46da-8d52-c86c6f802b4c/generations/032ece20-b0ec-4f5a-8174-e458f3a26dda/Leonardo_Diffusion_XL_A_computer_with_style_of_a_lofi_album_co_2.jpg"> 
