@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg"
        alt="snake" /></a>
 </div>
 <br>
@@ -16,22 +16,20 @@
 -  Hi, I’m @isGavri
 - I'm currently studying computer engineering.
 - I was part of the Oracle Next Education program.
-- I really love system languages.
+- I really love low level programming.
 - And im very happy lerning new things every single day.
 - oh, I use arch, btw.
 
 ## What I do?
-#### Dont really like
+### Dont enjoy like
   - API rest with Java and Spring Boot 3.
   - Oracle Cloud Infraestructure.
-  - MySql
-  - Oracle Database
+  - React
 #### Really love
-  - Rust multithread servers and APIs
-  - C and C++ plugins for my DE
-  - Learning wayland clients and servers
-  - Compilers and interpreters (still not really good)
-  - Low level programming (still learning)
+  - Servers
+  - Compilers and interpreters
+  - Low level programming
+  - Embeded systems
 
 
 ## 🌐 Socials:
