@@ -27,18 +27,16 @@
 - And im very happy lerning new things every single day.
 - oh, I use arch, btw.
 
-## What I do?
-### Dont enjoy like
+## Experience
   - API rest with Java and Spring Boot 3.
   - Oracle Cloud Infraestructure.
-  - React
-#### Really love
-  - C
-  - OS
-  - Compilers and interpreters
-  - Low level programming
-  - Embedded systems
-
+  - Terminal-based text editor. (No ncurses).
+  - Memory allocator
+  - Garbage collector
+  - Lox interpreter
+  - Lox compiler
+  - HC12 assembler. (C and Python).
+  - JSON parser
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/estefan-gabriel-partida-toalá-6004ba294) 
