@@ -5,10 +5,6 @@
   </h4>
 </div>
 
-<div align="center">
-<img src="https://cdn.leonardo.ai/users/ef84f59b-589a-46da-8d52-c86c6f802b4c/generations/032ece20-b0ec-4f5a-8174-e458f3a26dda/Leonardo_Diffusion_XL_A_computer_with_style_of_a_lofi_album_co_2.jpg"> 
-</div>
-
 --- 
 
 <div align="center">
@@ -36,14 +32,14 @@
   - Lox interpreter
   - Lox compiler
   - HC12 assembler. (C and Python).
-  - JSON parser
+  - JSON C parser
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/estefan-gabriel-partida-toalá-6004ba294) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=isGavri&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-[![GitHub Streak](https://github-readme-streak-stats-eight-flame.vercel.app?user=isGavri&theme=carbonfox&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true)](https://git.io/streak-stats)<br />
+[![GitHub Streak](https://github-readme-streak-stats-eight-flame.vercel.app?user=isGavri&theme=dark&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true)](https://git.io/streak-stats)<br />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=isGavri&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
