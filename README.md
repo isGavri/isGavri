@@ -43,8 +43,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=isGavri&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=isGavri&theme=dark&hide_border=false)<br/>
-[![GitHub Streak](https://streak-stats.demolab.com?user=isGavri&theme=carbonfox&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true)](https://git.io/streak-stats)<br />
+[![GitHub Streak](https://github-readme-streak-stats-eight-flame.vercel.app?user=isGavri&theme=carbonfox&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true)](https://git.io/streak-stats)<br />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=isGavri&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
