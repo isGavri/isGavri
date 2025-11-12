@@ -16,12 +16,8 @@
 
 # About me
 
--  Hi, I’m @isGavri
-- I'm currently studying computer engineering.
-- I was part of the Oracle Next Education program.
-- I really love low level programming.
-- And im very happy lerning new things every single day.
-- oh, I use arch, btw.
+Hi, I’m @isGavri, I'm currently studying computer engineering. I was part of the Oracle Next Education program. I really love low level programming and im very happy lerning new things every day.<br />
+Oh, I use arch, btw.
 
 ## Experience
   - API rest with Java and Spring Boot 3.
