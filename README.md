@@ -24,10 +24,11 @@ Oh, I use arch, btw.
   - Oracle Cloud Infraestructure.
   - Terminal-based text editor. (No ncurses).
   - Memory allocator
+  - Lineal arena allocator
   - Garbage collector
   - Lox interpreter
   - Lox compiler
-  - HC12 assembler. (C and Python).
+  - Motorola 68HC12 assembler. (C and Python).
   - JSON C parser
 
 ## 🌐 Socials:
