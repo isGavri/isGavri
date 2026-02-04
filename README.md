@@ -35,7 +35,6 @@ Oh, I use arch, btw.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/estefan-gabriel-partida-toalá-6004ba294) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=isGavri&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 [![GitHub Streak](https://github-readme-streak-stats-eight-flame.vercel.app?user=isGavri&theme=dark&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true)](https://git.io/streak-stats)<br />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=isGavri&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
