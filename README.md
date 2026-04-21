@@ -14,25 +14,55 @@
 </div>
 <br>
 
-# About me
 
-Hi, I’m @isGavri, I'm currently studying computer engineering. I was part of the Oracle Next Education program. I really love low level programming and im very happy lerning new things every day.<br />
-Oh, I use arch, btw.
+## **About me**
 
-## Experience
-  - API rest with Java and Spring Boot 3.
-  - Oracle Cloud Infraestructure.
-  - Terminal-based text editor. (No ncurses).
-  - Memory allocator
-  - Lineal arena allocator
-  - Garbage collector
-  - Lox interpreter
-  - Lox compiler
-  - Motorola 68HC12 assembler. (C and Python).
-  - JSON C parser
+I’m a software explorer obsessed with the abstraction layers between high-level logic and hardware. I spend most of my time in a terminal, writing C, configuring Neovim, or thinking and mapping about how computers... compute.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/estefan-gabriel-partida-toalá-6004ba294) 
+
+
+### Interests
+- **Languages:** `C`, `C++`, `Assembly (x86-64, M68HC12)`, `Java`, `Python`
+- **Specializations:** Compiler Design, VM Construction, Memory Management, Embedded Firmware.
+- **Environment:** Arch Linux, Hyprland, Neovim.
+- **Tools:** LLVM, GDB, Valgrind, Make, CMake, Git.
+
+
+
+### Projects
+
+#### [Functional Compiler (C + LLVM)](https://github.com/isGavri/) Repo on the way
+A parser built with precedence climbing that targets **LLVM IR**. Supports first-class functions and fundamental control flow.
+
+
+#### [Two-Pass Assembler](https://github.com/isGavri/Motorola-68HC12-assembler)
+A cross-assembler for the **M68HC12** architecture. Implemented from scratch to handle label resolution, relative offsets, and S19 file generation.
+
+#### [clox / jlox Interpreters](https://github.com/isGavri/jlox)
+Implementations of the Lox language. The C version features a custom **bytecode VM**, a **Linear Arena Allocator**, and a handwritten **Hash Table** library for high performance.
+
+#### [Systems-Lib](https://github.com/isGavri/C-library)
+A collection of low-level utilities I've written in C, including a **Permuted Random Number Generator (PCG)** and memory management tools.
+
+---
+
+### My Workflow
+```bash
+$ neofetch --isGavri
+  OS: Arch Linux
+  WM: Hyprland
+  Editor: Neovim
+  Shell: Zsh / Fish
+  Hobbies: Music, Football (the real one), Computers.
+```
+
+---
+
+### Reach Me
+- **LinkedIn:** [Estefan Gabriel Partida Toalá](https://www.linkedin.com/in/estefan-gabriel-partida-toala)
+- **Email:** zssykes1@gmail.com
+- **Portfolio:** *Coming Soon...*
+
 
 # 📊 GitHub Stats:
 [![GitHub Streak](https://github-readme-streak-stats-eight-flame.vercel.app?user=isGavri&theme=dark&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true)](https://git.io/streak-stats)<br />
