@@ -17,32 +17,30 @@
 
 ## **About me**
 
-I’m a software explorer obsessed with the abstraction layers between high-level logic and hardware. I spend most of my time in a terminal, writing C, configuring Neovim, or thinking and mapping about how computers... compute.
-
+I’m a computer engineer deeply passionate about memory management, computer architecture, compilers and in general systems programming. I also love music, I am a classical and jazz trained guitarist, pianist and choir singer. I spend most of time either playing my instruments or thinking about how computers... compute.
 
 
 ### Interests
-- **Languages:** `C`, `C++`, `Assembly (x86-64, M68HC12)`, `Java`, `Python`
-- **Specializations:** Compiler Design, VM Construction, Memory Management, Embedded Firmware.
+- **Languages:** `C`, `C++`, `asm (x86-64, M68HC12)`, `java`, `python`
+- **Specializations:** Compiler design, VM interpreters, memory management, systems programming and some embedded.
 - **Environment:** Arch Linux, Hyprland, Neovim.
 - **Tools:** LLVM, GDB, Valgrind, Make, CMake, Git.
-
 
 
 ### Projects
 
 #### [Functional Compiler (C + LLVM)](https://github.com/isGavri/) Repo on the way
-A parser built with precedence climbing that targets **LLVM IR**. Supports first-class functions and fundamental control flow.
+A parser built with precedence climbing that targets **LLVM IR**. Supports first-class functions, fundamentals and basic control flow.
 
 
 #### [Two-Pass Assembler](https://github.com/isGavri/Motorola-68HC12-assembler)
-A cross-assembler for the **M68HC12** architecture. Implemented from scratch to handle label resolution, relative offsets, and S19 file generation.
+A cross two phase assembler for the **M68HC12** architecture. Implemented from scratch to handle label resolution, relative offsets, and S19 file generation.
 
 #### [clox / jlox Interpreters](https://github.com/isGavri/jlox)
-Implementations of the Lox language. The C version features a custom **bytecode VM**, a **Linear Arena Allocator**, and a handwritten **Hash Table** library for high performance.
+Implementations of the Lox language. Recursive descent parser and visitor pattern for interpreting the AST. The features a **bytecode VM**.
 
 #### [Systems-Lib](https://github.com/isGavri/C-library)
-A collection of low-level utilities I've written in C, including a **Permuted Random Number Generator (PCG)** and memory management tools.
+A collection of utilities I've written in C, including a Permuted Random Number Generator (PCG), terminal based text editor and memory management tools.
 
 ---
 
@@ -53,7 +51,7 @@ $ neofetch --isGavri
   WM: Hyprland
   Editor: Neovim
   Shell: Zsh / Fish
-  Hobbies: Music, Football (the real one), Computers.
+  Hobbies: Music, Football (the real one ⚽), Computers.
 ```
 
 ---
